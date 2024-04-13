@@ -2,9 +2,9 @@
 
 *Генерация изображения по-часового тренда дохода. Публикация осуществляется в SLACK*
 
-![trend_on_yestarday](https://github.com/TesLineX/Programmatic/assets/56605777/b30c9822-9b6b-45b1-b733-c4359109d480)
+![trend_on_yestarday](https://github.com/TesLineX/Programmatic/assets/56605777/571fb574-675e-47a9-8848-736089ec7578)
+![trend_on_yestarday (1)](https://github.com/TesLineX/Programmatic/assets/56605777/3b38906c-a8af-4239-9033-322ef2afc77f)
 
-![trend_on_yestarday (1)](https://github.com/TesLineX/Programmatic/assets/56605777/ca1e6cd4-0d45-4a30-b623-e4239ce0d3a6)
 
 Необходимые для заполнения переменные:
 
